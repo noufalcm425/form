@@ -1,0 +1,17 @@
+body{
+    background-color: green;
+}
+div{
+    background-color: white;
+    width: 450px;
+    margin-left: 310px;
+}
+form{
+    margin-left: 28px;
+    margin-top: 24px;
+}
+h1{
+    font-size: 44px;
+    font-style: italic;
+}
+
